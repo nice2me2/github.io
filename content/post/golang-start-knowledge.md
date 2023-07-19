@@ -116,4 +116,4 @@ url: "/"
 >> M：系统线程  
 >> P：逻辑处理器，负责提供相关的上下文环境，内存缓存的管理，Goroutine任务队列等  
 >> Go 将一个全局队列拆成了多个本地队列，这个管理本地队列的结构被称作 P。
-> ![GMP-Model](./resource/image/gmp-model.png)
+> ![GMP-Model](/images/gmp-model.png)
