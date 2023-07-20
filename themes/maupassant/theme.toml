@@ -27,20 +27,3 @@ min_version = "0.30"
   homepage = "https://chopstack.com/"
   repo = "https://github.com/pagecho/maupassant"
 
-[markup]
-  [markup.highlight]
-    lineNos = true
-    style = "github"
-
-[menu]
-  [[menu.main]]
-    identifier = "poems"
-    name = "诗文赏析"
-    url = "/poems/"
-    weight = 2
-
-# 图片点击放大
-[params]
-  fancybox = true
-
-toc = true
