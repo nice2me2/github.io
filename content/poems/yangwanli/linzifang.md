@@ -1,7 +1,7 @@
 ---
 title: "晓出净慈寺送林子方"
 description: "杨万里送别送林子方任职福州"
-tags: ["杨万里", "林子方", "净慈寺林子方"]
+tags: ["杨万里", "林子方", "净慈寺"]
 date: 2023-07-19T17:42:41+08:00
 categories: ["诗文赏析"]
 slug: "xiaochu-jingcishi-song-linzifang"
