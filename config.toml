@@ -20,6 +20,18 @@ toc = true
     url = "/poems/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "author"
+    name = "作者简介"
+    url = "/author/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "article"
+    name = "文章分享"
+    url = "/article/"
+    weight = 4
+
 # 图片点击放大
 [params]
   fancybox = true
