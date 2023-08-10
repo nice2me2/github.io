@@ -19,11 +19,13 @@ toc = true
     name = "诗文赏析"
     url = "/poems/"
     weight = 2
+
   [[menu.main]]
     identifier = "author"
     name = "作者简介"
     url = "/author/"
     weight = 3
+    
   [[menu.main]]
     identifier = "article"
     name = "文章分享"

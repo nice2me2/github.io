@@ -9,7 +9,7 @@ slug: "xiaochu-jingcishi-song-linzifang"
 ---
 
 ## 晓出净慈寺送林子方二首
-#### [杨万里](/poems/yangwanli)（宋）
+#### [杨万里](/author/yangwanli)（宋）
 
 其一  
 出得西湖月尚残， 荷花荡里柳行间。  
