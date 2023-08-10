@@ -5,7 +5,7 @@ tags: ["诗人", "李白"]
 date: 2023-08-10T09:25:23+08:00
 categories: ["作者简介"]
 slug: "libai"
-url: "/poems/libai"
+url: "/author/libai"
 ---
 
 # 李白（701年2月28日—762年12月）

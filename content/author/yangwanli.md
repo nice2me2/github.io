@@ -5,7 +5,7 @@ tags: ["诗人", "杨万里"]
 date: 2023-07-20T7:42:41+08:00
 categories: ["作者简介"]
 slug: "yangwanli"
-url: "/poems/yangwanli"
+url: "/author/yangwanli"
 ---
 
 # 杨万里（1127－1206）
