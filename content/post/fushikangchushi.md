@@ -2,7 +2,7 @@
 title: "富士康初识"
 description: "有感而发。"
 tags: ["富士康"]
-date: 2023-08-22T10:19:50+08:00
+date: 2023-08-31T10:49:50+08:00
 categories: ["记录", "即兴"]
 slug: "fu-shi-kang-chu-shi"
 #url: "/"
