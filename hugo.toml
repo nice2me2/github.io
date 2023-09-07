@@ -35,3 +35,4 @@ toc = true
 # 图片点击放大
 [params]
   fancybox = true
+  busuanzi = true
