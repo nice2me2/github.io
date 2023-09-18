@@ -8,7 +8,7 @@ slug: "er-gou-ji-11"
 #url: "/"
 ---
 
-## 奇闻轶事集十
+## 奇闻轶事集十一
 #### [挺立的黄花夹竹桃]()<img src="https://static.tuodan.tech/public/images/anonymous/plant/yingkesong.png" style="width:20px; height:20px; border-radius:10px;"/>（杂文琐事）
 
 &emsp;&emsp;给大家吃个瓜吧。今天来吐槽吐槽，实在想不通。  
