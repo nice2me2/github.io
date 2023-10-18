@@ -1,14 +1,14 @@
 ---
-title: "奇闻轶事集十一"
+title: "奇闻轶事集十三"
 description: "记录天下之琐事，供观赏之。"
 tags: ["奇闻", "轶事", "感情", "倾诉"]
 date: 2023-09-18T17:18:50+08:00
 categories: ["杂文", "琐事"]
-slug: "er-gou-ji-11"
+slug: "er-gou-ji-13"
 #url: "/"
 ---
 
-## 奇闻轶事集十
+## 奇闻轶事集十三
 #### [挺立的黄花夹竹桃]()<img src="https://static.tuodan.tech/public/images/anonymous/plant/yingkesong.png" style="width:20px; height:20px; border-radius:10px;"/>（杂文琐事）
 
 &emsp;&emsp;上星期六加了一个老师，通过第二天马上约了见面喝早茶，因为离得挺近，还来我这边逛了一下，聊的很开心，也挺多话聊，回去表示可以再了解看看三观合不合适，还说和我聊天很开心
